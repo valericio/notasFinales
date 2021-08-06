@@ -1,6 +1,6 @@
 # Desafio Notas Finales
 
-Desafio Notas finales , utlizando JavasCrip
+Desafio Notas finales , utlizando Javascript
 
 ## Pre-requisitos 📋
 
